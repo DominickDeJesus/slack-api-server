@@ -1,4 +1,4 @@
-##Slack API Links
+## Slack API Links
 
 local dev
 https://slack.dev/node-slack-sdk/tutorials/local-development
